@@ -5,6 +5,6 @@
 
 - <b>Languages:</b> JavaScript, TypeScript, Python, VBA
 - <b>Frontend:</b> React, Redux, JQuery, HTML / CSS, Styled-Components, Chakra UI
-- <b>Backend:</b> Node.js, Express, Nginx, AWS EC2, Heroku Docker, Firebase, REST APIs, microservices
+- <b>Backend:</b> Node.js, Express, Nginx, AWS EC2, Heroku, Docker, Firebase, REST APIs, microservices
 - <b>Testing/Tools:</b> Jest, Mocha / Chai, Webpack, Babel, Git, Jira
 - <b>Data:</b> SQL (Presto, Hive, Postgres, MySQL, SQL Server, Oracle), NoSQL (MongoDB), Tableau, Apache Airflow
